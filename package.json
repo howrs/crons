@@ -1,0 +1,12 @@
+{
+  "name": "crons",
+  "type": "module",
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@types/bun": "^1.1.13",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "ofetch": "^1.4.1"
+  }
+}
